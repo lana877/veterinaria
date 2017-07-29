@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 28, 2017, 7:23:23 PM
+    Author     : 00140231-Ana Leon
+*/
+
+div{
+    border: 1px solid green
+}
+
+#contenedor {
+  width: 700px;
+}
+
+#cabecera {
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+#menu {
+  float: left;
+  width: 20%;
+    height: 400px;
+}
+
+#contenido {
+  float: right;
+  width: 75%;
+    height: 400px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+#pie {
+    clear: both;
+    height: 70px;
+    font-family: Gadugi; 
+    font-size: 15px;
+    text-align: center;
+    /*background: lightseagreen;*/
+}
+
+#pie img{
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
